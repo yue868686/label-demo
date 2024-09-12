@@ -5,5 +5,6 @@ usage:
 
 1. install nodejs
 2. npm install express path
-3. node server.js
-4. open browser http://localhost:3000
+3. put the images needs to be labelled in the images folder
+4. node server.js
+5. open browser http://localhost:3000
